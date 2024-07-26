@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">moviesapp</string>
+    <string name="empty_screen_title_not_found_results">Aucun résultat trouvé</string>
+    <string name="empty_screen_title_no_internet">Pas de connexion Internet</string>
+    <string name="empty_screen_descripcion_no_internet">Veuillez vérifier votre connexion Internet</string>
+    <string name="empty_screen_title_error_something_went_wrong">Oups!</string>
+    <string name="empty_screen_description_error_something_went_wrong">Une erreur est survenue, veuillez réessayer</string>
+    <string name="Détails">details</string>
+</resources>
